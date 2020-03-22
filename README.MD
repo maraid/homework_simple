@@ -1,4 +1,4 @@
-# KVSS (Key-Value Storage Server)
+# KVSS (Key-Value Storage Server) (python 3.8+)
 
 This is a key-value server written in python 3, intended to implement 3 things:
   - store a string key with a string value __(/store/\<key\>:\<value\>)__
